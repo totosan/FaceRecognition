@@ -1,0 +1,7 @@
+__pycache__
+dlib*
+*.npy
+filelist.txt
+setting.json
+*.png
+*.jpg
