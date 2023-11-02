@@ -4,4 +4,7 @@ dlib*
 filelist.txt
 setting.json
 *.png
+*.jpeg
 *.jpg
+.git
+sort/**/*
